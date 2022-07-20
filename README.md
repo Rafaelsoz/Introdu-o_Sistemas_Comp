@@ -23,4 +23,7 @@
 - Completar o Simple_simulator, em C
 - Construção do jogo, em C(Compilador) ou Assembly
 
+# Jogo Feito em C, Grupo: Porta XOR:
+- Rafael Souza, Lucca Baptista, Luis Felipe, Murillo Ferreira
+
 https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/tree/main/game_corrida_tartarugas
