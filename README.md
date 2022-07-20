@@ -1,4 +1,4 @@
-# Introdução Sistemas Comp
+# Introdução Sistemas Computacionais
 - Atividades propostas na sala de aula, matéria Introdução a Sistemas Computacionais, professor Simões
  
 # Atividades passadas em Aula:
