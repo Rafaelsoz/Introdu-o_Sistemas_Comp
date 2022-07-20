@@ -22,3 +22,5 @@
 ## Parte 3:
 - Completar o Simple_simulator, em C
 - Construção do jogo, em C(Compilador) ou Assembly
+
+https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/tree/main/game_corrida_tartarugas
