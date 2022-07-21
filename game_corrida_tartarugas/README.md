@@ -21,7 +21,12 @@
   - Na primeira opção é necessário colocar o arquivo game.mif
   - Na segunda se faz preciso usar o charmap
 
+  ![](https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/blob/main/game_corrida_tartarugas/image.jpeg)
+
+
   Agora basta clicar em "Automatico" para que de start no simulador
+  
+  
   ![](https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/blob/main/game_corrida_tartarugas/game_.gif)
   
  # Como jogar
