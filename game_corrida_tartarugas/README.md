@@ -24,7 +24,7 @@
   ![](https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/blob/main/game_corrida_tartarugas/image.jpeg)
 
 
-  Agora basta clicar em "Automatico" para que de start no simulador
+  ## Agora basta clicar em "Automatico" para que de start no simulador
   
   
   ![](https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/blob/main/game_corrida_tartarugas/game_.gif)
