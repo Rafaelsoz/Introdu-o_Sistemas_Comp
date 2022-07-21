@@ -20,6 +20,7 @@
   Como dito antes, vamos ultilizar a versão feita no [navegador](https://github.com/simoesusp/Processador-ICMC/tree/master/Install_Packages)
   - Na primeira opção é necessário colocar o arquivo game.mif
   - Na segunda se faz preciso usar o charmap
+  ![](https://github.com/Rafaelsoz/Introdu-o_Sistemas_Computacionais/blob/main/game_corrida_tartarugas/game_.gif)
   
  # Como jogar
  ## Controles: 
