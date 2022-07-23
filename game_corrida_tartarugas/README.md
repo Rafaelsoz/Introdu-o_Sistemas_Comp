@@ -1,7 +1,10 @@
 # Corrida de Tartarugas - Multiplayer
 ## Trabalho Final, implementar um jogo que possa ser executado no Processador ICMC
 - A implementação do grupo, se tratou de um jogo multiplayer, baseado em quem alcança o mar primeiramente.
- 
+
+# Vídeo de como funciona o jogo e seu algoritmo 
+- [Vídeo](https://github.com/Rafaelsoz/Introducao_Sistemas_Computacionais/blob/main/game_corrida_tartarugas/video_.mp4)
+
 # Como Jogar
   Para a execução do jogo se faz necessário em uma FPGA ou por meio de um Simulador do Processador.
   
